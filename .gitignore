@@ -1,5 +1,4 @@
 .env
 .idea
 coverage
-db
 node_modules
